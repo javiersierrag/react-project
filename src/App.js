@@ -1,10 +1,9 @@
-import classes from "./App.module.css";
+import Form from "../src/components/Form/Form";
+import "./App.module.css";
 
 const App = () => {
- 
-
   return (
-    <></>
+      <Form />
   );
 };
 
